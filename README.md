@@ -1,11 +1,11 @@
-# Swayv Films
+![Swayv Films — Projets et démonstrations](profile-banner.svg)
 
-[**Accéder à mon portfolio de développement →**](https://github.com/wdebugcode)
+[**Accéder au portfolio de Walid Boussaha ↗**](https://github.com/walidboussaha) · [Lancer les démos web](https://walidboussaha.github.io/runtrack-html/)
 
-Ce compte accompagne mon profil principal, **@wdebugcode**, où je présente mes réalisations à La Plateforme_ en Python, HTML, CSS et Git.
+Ce compte accompagne mon profil principal, **@walidboussaha**, où je présente mes réalisations à La Plateforme_.
 
-| Projet | À découvrir |
-| --- | --- |
-| [Runtrack Web](https://wdebugcode.github.io/runtrack-html/) | BloomPetals, un site vitrine multipage, et un CV web responsive |
-| [Runtrack Python](https://github.com/wdebugcode/runtrack-python) | 62 scripts, des premiers exercices aux algorithmes sur les listes et les chaînes |
-| [Git Begins](https://github.com/wdebugcode/git-begins) | Exercices de versionnage et mémo de commandes Git |
+## À découvrir
+
+- **BloomPetals et CV web** · [Deux démos HTML et CSS](https://walidboussaha.github.io/runtrack-html/)
+- **Runtrack Python** · [62 exercices et leurs points d’entrée](https://github.com/walidboussaha/runtrack-python)
+- **Git Begins** · [Mémo des commandes de versionnage](https://github.com/walidboussaha/git-begins)
