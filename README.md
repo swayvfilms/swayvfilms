@@ -7,6 +7,9 @@ Ce compte accompagne mon profil de développement. Voici trois points d’entré
 ## À découvrir
 
 ### Web
+
+[![BloomPetals — ouvrir la démonstration](bloompetals.svg)](https://walidboussaha.github.io/runtrack-html/BloomPetals/)
+
 [BloomPetals](https://walidboussaha.github.io/runtrack-html/BloomPetals/) est un site vitrine de fleuriste en quatre pages. Le [CV web](https://walidboussaha.github.io/runtrack-html/CV/mon-cv.html) présente une mise en page responsive et une intégration vidéo.
 
 ### Python
