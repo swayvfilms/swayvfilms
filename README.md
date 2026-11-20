@@ -1,4 +1,4 @@
-![Swayv Films — Projets et démonstrations](swayv-banner.svg)
+![Swayv — Projets et démonstrations](swayv-banner.svg)
 
 [**Portfolio de Walid Boussaha ↗**](https://github.com/walidboussaha) · [Démos web](https://walidboussaha.github.io/runtrack-html/)
 
